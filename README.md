@@ -1,6 +1,6 @@
 # vexternal
 
-Just an old, poorly written, p-o-c, external valorant cheat with imgui (opengl) overlay
+Just an old, poorly written, PoC, external valorant cheat with imgui (opengl) overlay
 
 You have to copy the Roboto-Light.ttf file from the second vexternal folder into your execution directory for imgui to use this font
 
